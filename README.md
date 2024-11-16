@@ -14,7 +14,7 @@ This file contains links to live site URLs for various projects I have practiced
 🔭I'm currently working on some Front-end mentor projects, and I will be updating the live site URL as I progress 
 These are projects I worked on with the coding school(Alusoft Technologies) I attended:
 -Nairaland Website [https://zionsokoya.github.io/Nairaland-Website/]
--O2TV Series Project[]
+-O2TV Series Project[https://zionsokoya.github.io/O2TVSeries-Website/]
 -Valencia College Website [A secondary school website]- (https://zionsokoya.github.io/Valencia-College-Website/)
 -Pathfinder College [https://zionsokoya.github.io/Pathfinder-Assignment/]
 These are the ones from the Front-end Mentor Projects:
